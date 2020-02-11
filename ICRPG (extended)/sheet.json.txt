@@ -3,5 +3,5 @@
 	"css": "ICRPGextended.css",
 	"authors": "Seraphim and Twotricks",
 	"roll20userid": "2652184",
-	"preview": "ICRPGextended.png",
+	"preview": "ICRPGextended.png"
 }
